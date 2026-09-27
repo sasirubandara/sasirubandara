@@ -43,50 +43,27 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" height="50" />
-</div>
-
-<br>
-<br>
-
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 <br>
 
-
-
-- 🎓 **Currently Studying:**  
+- 🎓 **Currently Pursuing:**  
   Higher Diploma in **Computer Engineering with Applied AI** at the **Institute of Computer Engineering Technology (iCET)**.
 
 - 🏫 **Academic Background:**  
-  Completed Advanced Level in Physical Science Stream (Mathematics, Physics, ICT) at **Dharmaraja College, Kandy**. Served in the ICT and Science Societies.
+  Completed G.C.E. Advanced Level in the Physical Science Stream (Combined Mathematics, Physics, ICT) at **Dharmaraja College, Kandy**. Active executive contributor in the ICT and Science Societies.
 
 - 🚀 **Core Technical Focus:**  
   Applied Machine Learning, Systems Architecture, Cloud Infrastructure, and High-Performance Full-Stack Web Applications.
 
 - 💻 **I Enjoy Building:**  
-  Scalable RESTful APIs, cloud-backed microservices, interactive web frontends, and AI-driven automation tools.
+  Scalable RESTful APIs, cloud-backed microservices, interactive web applications, and AI-driven automation tools.
 
 - 🌱 **Currently Exploring:**  
-  Deep Learning Architectures, Neural Networks, Cloud Native Deployment Patterns, and Serverless Systems.
+  Deep Learning Architectures, Neural Networks, Cloud-Native Deployment Patterns, and Serverless Computing.
 
 - 💬 **Ask Me About:**  
-  Python, JavaScript/TypeScript, Node.js, Express, React, Angular, Cloud Infrastructure, and SQL/NoSQL Databases.
+  Java, Python, JavaScript/TypeScript, Node.js, Express, React, Angular, Cloud Infrastructure, and Relational/NoSQL Databases.
 
 - 🤝 **Open To:**  
   Software Engineering Internships, AI/ML Project Collaborations, Cloud Architecture Research, and Open-Source Contributions.
@@ -114,6 +91,7 @@
 ### ⚙️ Backend, AI & Machine Learning
 
 <p align="left">
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
