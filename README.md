@@ -40,10 +40,12 @@
 **Coding & Technical:**<br>
 <a href="https://leetcode.com/u/sasirubandara" target="_blank"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" height="40" style="border-radius: 8px;" alt="LeetCode"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/sasirusithumina" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" style="border-radius: 8px;" alt="HackerRank"></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/sasirubandara" target="_blank"><img src="https://www.svgrepo.com/show/349422/kaggle.svg" height="40" alt="Kaggle"></a>
 
 **Writing & Content:**<br>
 <a href="https://medium.com/@sasirusithumina" target="_blank"><img src="https://www.svgrepo.com/show/394277/medium.svg" height="40" style="border-radius: 8px;" alt="Medium"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@sasirubandara-ssb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="45" alt="YouTube"></a>&nbsp;&nbsp;
+<a href="https://www.patreon.com/cw/sasirubandara" target="_blank"><img src="https://www.svgrepo.com/show/473744/patreon.svg" height="40" alt="Patreon"></a>
 
 **Social Media & Community:**<br>
 <a href="https://x.com/sasirubandara" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X"></a>&nbsp;&nbsp;
